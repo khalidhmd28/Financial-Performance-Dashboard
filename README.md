@@ -7,7 +7,9 @@ Note: All data in this project is synthetic. It was generated for portfolio purp
 
 # Business Questions Answered
 • How are revenue, net income and net margin trending month by month?
+
 • Which revenue streams and business units drive growth and seasonality?
+
 • How does actual revenue compare with forecast and budget?
 • Where is the money going, and which expense accounts are running over budget?
 • How did FY2025 perform compared with FY2024?
